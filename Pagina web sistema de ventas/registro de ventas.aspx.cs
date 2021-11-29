@@ -177,6 +177,8 @@ namespace Pagina_web_sistema_de_ventas
 
         protected void Button2_Click(object sender, EventArgs e)
         {
+            
+
             Button3.Visible = false;
             Button6.Visible = false;
             Button5.Visible = false;

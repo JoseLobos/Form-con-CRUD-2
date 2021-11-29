@@ -170,10 +170,5 @@ namespace Pagina_web_sistema_de_ventas
             Button5.Visible = Visible;
             Button6.Visible = Visible;
         }
-
-        protected System.Void Button7_Click(System.Object sender, System.EventArgs e)
-        {
-
-        }
     }
 }
